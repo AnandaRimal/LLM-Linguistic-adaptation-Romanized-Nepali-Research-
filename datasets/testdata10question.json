@@ -1,0 +1,52 @@
+[
+    {
+        "instruction": "Computer bhaneko k ho? Yaslai nepali ma paribhashit garnuhos.",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "Nepal ko barema thodai bhannus ta.",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "Cache memory bhaneko k ho?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "Yo numerical pattern pura garnuhos.",
+        "input": "1, 2, 3, 4, ...",
+        "output": ""
+    },
+    {
+        "instruction": "Diyeko vakya lai shuddha banayera lekhnuhos.",
+        "input": "Ma bholi ghar janchu thiyo.",
+        "output": ""
+    },
+    {
+        "instruction": "Operating System ko bhumika k huncha?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "Dashain ko barema euta choto paragraph lekhnuhos.",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "Diyeko list ma kun chai phalful hoina?",
+        "input": "1. Syau, 2. Suntala, 3. Alu, 4. Aap",
+        "output": ""
+    },
+    {
+        "instruction": "Internet bhane ko k ho?",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "Euta sano katha lekhnuhos.",
+        "input": "Topic: Chalakh Shyal",
+        "output": ""
+    }
+]
